@@ -15,6 +15,7 @@
 
 * [Concepts, Techniques, and Models of Computer Programming](https://mitpress.mit.edu/books/concepts-techniques-and-models-computer-programming)
 * [Denotational Semantics](https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf)
+* [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([video lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_))
 
 ## Papers
 
