@@ -2,7 +2,7 @@
 
 ## Fundamentals
 
-* [SICP](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 * [The little schemer](https://mitpress.mit.edu/books/little-schemer)
 * [Mostly adequate guide to FP](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 * [Lisp in Small Pieces](https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668)
