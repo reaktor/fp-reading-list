@@ -2,8 +2,8 @@
 
 ## Fundamentals
 
-* [SICP](https://mitpress.mit.edu/sicp/full-text/book/book.html)
-* [The little schemer](https://mitpress.mit.edu/books/little-schemer)
+* [SICP](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/)
+* [The little schemer](https://mitpress.mit.edu/9780262560993/the-little-schemer/)
 * [Mostly adequate guide to FP](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 * [Lisp in Small Pieces](https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668)
 * [ML for the Working Programmer](http://www.cl.cam.ac.uk/~lp15/MLbook/)
@@ -13,8 +13,7 @@
 
 ## Material to help understand more advanced concepts
 
-* [Concepts, Techniques, and Models of Computer Programming](https://mitpress.mit.edu/books/concepts-techniques-and-models-computer-programming)
-* [Denotational Semantics](https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf)
+* [Concepts, Techniques, and Models of Computer Programming](https://mitpress.mit.edu/9780262220699/concepts-techniques-and-models-of-computer-programming/)
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([unofficial pdf version](https://github.com/hmemcpy/milewski-ctfp-pdf)) ([video lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)) 
 
 ## Papers
@@ -26,7 +25,7 @@
 * Zippers — [The Derivative of a Regular Type is its Type of One-Hole Contexts](http://strictlypositive.org/diff.pdf)
 * [Datatype-Generic Programming](http://www.cs.ox.ac.uk/jeremy.gibbons/publications/dgp.pdf)
 * [Functional unparsing](http://www.brics.dk/RS/98/12/BRICS-RS-98-12.pdf)
-* [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
+* [Data types a la carte](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/data-types-a-la-carte/14416CB20C4637164EA9F77097909409#)
 * [Applicative programming with effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf)
 
 
